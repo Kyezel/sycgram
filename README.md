@@ -1,6 +1,7 @@
-# sycgram
+#sycgram
 
-## 配置
+
+## configure
 
 - 需要两个参数：`api_id`、`api_hash`
 - 如果没有，点击这个[电报链接](https://my.telegram.org/apps)申请
